@@ -7,4 +7,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akiy2009&show_icons=true&theme=dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akiy2009&theme=react-dark)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akiy2009&theme=dark)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akiy2009&theme=tokyonight&no-frame=true&row=1" />
+</p>
