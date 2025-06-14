@@ -1,4 +1,3 @@
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML--E34F26?logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python--3776AB?logo=python&logoColor=white)
