@@ -42,16 +42,6 @@
 
 # GitHub Analytics
 
-### Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiy2009&layout=compact&langs_count=10&theme=dark" />
-</p>
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akiy2009&show_icons=true&theme=dark" />
-</p>
-
 ### Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akiy2009&theme=dark" />
@@ -60,13 +50,6 @@
 ### Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akiy2009&theme=react-dark" />
-</p>
-
----
-
-# Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akiy2009&theme=onestar&no-frame=true&row=1" />
 </p>
 
 ---
