@@ -1,6 +1,11 @@
-# Tech Stack & GitHub Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=00F7FF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;Full+Stack+Engineer;Building+GakuseiBOT+and+More" />
+</p>
 
-## Skills
+---
+
+# Tech Stack & Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
@@ -23,24 +28,58 @@
 
 ---
 
+# Projects
+
+---
+
+## **Auto Design Tokens Optimizer**
+> デザイントークンを自動で最適化し、CSS・Tailwind・各種テーマを生成する CLI ツール。npm で公開中。
+
+**Tech:** TypeScript / Node.js  
+**Repository:** https://github.com/akiy2009/auto-design-tokens-optimizer
+
+---
+
 # GitHub Analytics
 
-## Most Used Languages
+### Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiy2009&layout=compact&langs_count=10&theme=dark" />
 </p>
 
-## GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akiy2009&show_icons=true&theme=dark" />
 </p>
 
-## Profile Summary
+### Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akiy2009&theme=dark" />
 </p>
 
-## Activity Graph
+### Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akiy2009&theme=react-dark" />
+</p>
+
+---
+
+# Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akiy2009&theme=onestar&no-frame=true&row=1" />
+</p>
+
+---
+
+# Links
+<p align="center">
+  <a href="https://github.com/akiy2009">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting!
 </p>
