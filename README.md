@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Engineer+%F0%9F%92%A1;Building+GakuseiBOT+and+More" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Engineer+%F0%9F%92%A1" />
 
 <br/>
 
@@ -14,30 +14,21 @@
 
 <div align="center">
 
-| Languages | Frameworks & Tools |
-|:---------:|:------------------:|
-| <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/> | <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/> | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/> |
-| <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/> | <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"/> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/> | <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/> | <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/> |
-| <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge"/> | <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=for-the-badge"/> |
-
-</div>
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24"/> Projects
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="18"/> GakuseiBOT
-
-> 学生向け Discord ボット。ピンポイントで便利なツールを提供。
-
-**Tech:** TypeScript / Discord.js
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Repository-000000?logo=github&logoColor=white&style=for-the-badge"/>](https://github.com/akiy2009/GakuseiBOT)
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -60,18 +51,12 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/> Links
-
 <div align="center">
 
 [<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>](https://github.com/akiy2009)
 [<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>](https://www.npmjs.com/~akiy2009)
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 **Thanks for visiting!**
 
