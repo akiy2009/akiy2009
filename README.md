@@ -41,14 +41,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akiy2009&theme=react-dark&hide_border=true" width="80%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiy2009&layout=compact&theme=radical&hide_border=true" width="40%"/>
-
-</div>
-
 ---
 
 <div align="center">
