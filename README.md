@@ -54,31 +54,21 @@ From web applications and AI-powered tools to embedded devices , I enjoy explori
 
 ## Tech Stack
 
-### Languages
+## Languages
 
-<div>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,cpp&theme=dark" alt="Programming Languages"/>
-</div>
+<div> <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,cpp&theme=dark" alt="Languages"/> </div>
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 
-<div>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi&theme=dark" alt="Frameworks and Libraries"/>
-</div>
+<div> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi,opencv,pytorch&theme=dark" alt="Frameworks and Libraries"/> </div>
 
-### Backend, Database & Infrastructure
+## Backend, Database & Infrastructure
 
-<div>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,vercel,docker,linux,cloudflare&theme=dark" alt="Backend and Infrastructure"/>
-</div>
+<div> <img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,docker,linux,cloudflare&theme=dark" alt="Backend and Infrastructure"/> </div>
 
-### Development Tools
+## Development Tools
 
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,arduino&theme=dark" alt="Development Tools"/>
-</div>
-
----
+<div> <img src="https://skillicons.dev/icons?i=git,github,vscode,raspberrypi&theme=dark" alt="Development Tools"/> </div>
 
 ## Featured Projects
 
