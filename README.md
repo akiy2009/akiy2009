@@ -103,10 +103,6 @@ From web applications and AI-powered tools to embedded devices , I enjoy explori
 
 <div align="center">
 
-
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akiy2009&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="70%" alt="GitHub Streak"/>
 
 </div>
